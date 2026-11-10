@@ -1,0 +1,6 @@
+{
+  "name": "JONOMANCH - Professional News Post Editor",
+  "description": "Facebook News Post Design Editor for JONOMANCH (জনমঞ্চ). Create professional breaking news graphics, quotes, and social posts with instant high-res export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
